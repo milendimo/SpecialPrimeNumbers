@@ -1,2 +1,2 @@
-# SpecialPrimeNumbers-dotnetcore
-POC implementation of Prime Numbers generator - .net core
+# SpecialPrimeNumbers
+POC implementation of Prime Numbers generator in .net core
